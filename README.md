@@ -38,3 +38,20 @@ Eu sou o Eduardo Alves, Programador Front End. Atualmente estou aprendendo e cri
 ## 📊 Minhas estatísticas no GitHub:
 
 [![Eduardo stats](https://github-readme-stats.vercel.app/api?username=eduardodevclub&show_icons=true&theme=tokyonight)](https://github.com/eduardodevclub)
+
+## 💼 Projetos em Destaque
+
+### 🔹 Easy Shopping
+
+![Easy Shopping](https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Desktop.png?raw=true)
+
+[🔗 Acessar Repositório](https://github.com/eduardodevclub/easy-shopping)
+
+---
+
+### 🔹 Wide Coverage Location
+
+![Wide Coverage](https://github.com/eduardodevclub/Wide-coverage-location/blob/main/img/Wide%20Coverage%20Location%20Desktop.png?raw=true)
+
+[🔗 Acessar Repositório](https://github.com/eduardodevclub/Wide-coverage-location)
+
