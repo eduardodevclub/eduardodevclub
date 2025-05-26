@@ -30,7 +30,7 @@ Eu sou o Eduardo Alves, Programador Front End. Atualmente estou aprendendo e cri
 <img align="left" height="26px" alt="CSS" src="https://cdn-icons-png.flaticon.com/128/16020/16020753.png"/>
 <img align="left" height="26px" alt="JavaScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/>
 <img align="left" height="26px" alt="React" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png"/>
-<img align="left" height="26px" alt="Git" src="https://img.icons8.com/?size=48&id=20906&format=png"/>
+<img align="left" height="30px" alt="Git" src="https://img.icons8.com/?size=48&id=20906&format=png"/>
 <img align="left" height="26px" alt="Github" src="https://cdn-icons-png.flaticon.com/128/733/733553.png"/>
 
 <br/><br/>
