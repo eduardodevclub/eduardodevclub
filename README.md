@@ -53,8 +53,14 @@ Landing page moderna e responsiva criada com **HTML**, **CSS** e **JavaScript**.
 **🔗 Deploy:** [eduardodevclub.github.io/Nike-Air-Zoom](https://eduardodevclub.github.io/Nike-Air-Zoom)  
 **📁 Repositório:** [github.com/eduardodevclub/Nike-Air-Zoom](https://github.com/eduardodevclub/Nike-Air-Zoom)
 
-### 🔹 Wide Coverage Location
+### 🔹 [Wide Coverage Location](https://eduardodevclub.github.io/Wide-coverage-location/)
+<p align="center">
+  <img src="https://github.com/eduardodevclub/Wide-coverage-location/blob/main/img/Wide%20Coverage%20Location%20Desktop.png?raw=true" width="500" alt="Wide Coverage Location Thumbnail"/>
+</p>
 
-![Wide Coverage](https://github.com/eduardodevclub/Wide-coverage-location/blob/main/img/Wide%20Coverage%20Location%20Desktop.png?raw=true)
+**Descrição:**  
+Landing page moderna desenvolvida durante os estudos no [DevClub](https://rodolfomori.com.br/devclub), com foco em praticar **HTML** e **CSS**. O projeto destaca uma interface limpa e responsiva, adaptando-se bem a diferentes tamanhos de tela.
 
-[🔗 Acessar Repositório](https://github.com/eduardodevclub/Wide-coverage-location)
+**🔧 Tecnologias:** HTML5 • CSS3  
+**🔗 Deploy:** [eduardodevclub.github.io/Wide-coverage-location](https://eduardodevclub.github.io/Wide-coverage-location/)  
+**📁 Repositório:** [github.com/eduardodevclub/Wide-coverage-location](https://github.com/eduardodevclub/Wide-coverage-location)
