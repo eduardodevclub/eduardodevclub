@@ -41,17 +41,20 @@ Eu sou o Eduardo Alves, Programador Front End. Atualmente estou aprendendo e cri
 
 ## 💼 Projetos em Destaque
 
-### 🔹 Easy Shopping
+### 👟 [Nike Air Zoom Landing Page](https://eduardodevclub.github.io/Nike-Air-Zoom/)
+<p align="center">
+  <img src="https://github.com/eduardodevclub/Nike-Air-Zoom/blob/master/img/Nike%20Desktop.png?raw=true" width="500" alt="Nike Air Zoom Thumbnail"/>
+</p>
 
-![Easy Shopping](https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Desktop.png?raw=true)
+**Descrição:**  
+Landing page moderna e responsiva criada com **HTML**, **CSS** e **JavaScript**. Inspirada em um produto real da Nike, o site permite alterar dinamicamente a cor do tênis e possui uma interface visual elegante e interativa.
 
-[🔗 Acessar Repositório](https://github.com/eduardodevclub/easy-shopping)
-
----
+**🔧 Tecnologias:** HTML5 • CSS3 • JavaScript  
+**🔗 Deploy:** [eduardodevclub.github.io/Nike-Air-Zoom](https://eduardodevclub.github.io/Nike-Air-Zoom)  
+**📁 Repositório:** [github.com/eduardodevclub/Nike-Air-Zoom](https://github.com/eduardodevclub/Nike-Air-Zoom)
 
 ### 🔹 Wide Coverage Location
 
 ![Wide Coverage](https://github.com/eduardodevclub/Wide-coverage-location/blob/main/img/Wide%20Coverage%20Location%20Desktop.png?raw=true)
 
 [🔗 Acessar Repositório](https://github.com/eduardodevclub/Wide-coverage-location)
-
