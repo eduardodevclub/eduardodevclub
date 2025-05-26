@@ -14,7 +14,10 @@ Eu sou o Eduardo Alves, Programador Front End. Atualmente estou aprendendo e cri
 ### 📫 Conecte-se comigo:
 
 <a href="https://github.com/eduardodevclub">
-  <img align="left" height="28px" alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+  <img align="left" height="28px" alt="GitHub" src="https://img.icons8.com/?size=48&id=20906&format=png" />
+</a>
+<a href="https://github.com/eduardodevclub">
+  <img align="left" height="28px" alt="GitHub" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />
 </a>
 <a href="https://www.linkedin.com/in/eduardo-alves-406066128">
   <img align="left" height="28px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
