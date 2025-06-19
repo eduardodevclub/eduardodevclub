@@ -43,6 +43,24 @@ Eu sou o Eduardo Alves, Programador Front End. Atualmente estou aprendendo e cri
 
 ## 💼 Projetos em Destaque
 
+## 💰 DevClub Convert Money
+
+[![Projeto DevClub Convert Money](https://img.shields.io/badge/🌐_Ver_Demo-37a779?style=for-the-badge)](https://eduardodevclub.github.io/devclub-convert-money/)
+
+**Conversor de moedas moderno** desenvolvido durante meus estudos na **DevClub** com mentoria do **Rodolfo Mori**.
+
+### 🚀 **Destaques:**
+- Conversão em tempo real (BRL → USD/EUR/GBP)
+- Interface responsiva e intuitiva  
+- Consumo de API para cotações atualizadas
+- Design moderno com JavaScript vanilla
+
+### 🛠️ **Tech Stack:**
+`HTML5` `CSS3` `JavaScript` `API Integration`
+
+---
+*Projeto desenvolvido na **DevClub** - Formando devs de alta qualidade* 💻
+
 ### 👟 [Nike Air Zoom Landing Page](https://eduardodevclub.github.io/Nike-Air-Zoom/)
 <p align="center">
   <img src="https://github.com/eduardodevclub/Nike-Air-Zoom/blob/master/img/Nike%20Desktop.png?raw=true" width="500" alt="Nike Air Zoom Thumbnail"/>
