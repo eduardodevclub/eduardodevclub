@@ -41,11 +41,16 @@ Eu sou o Eduardo Alves, Programador Front End. Atualmente estou aprendendo e cri
 
 [![Eduardo stats](https://github-readme-stats.vercel.app/api?username=eduardodevclub&show_icons=true&theme=tokyonight)](https://github.com/eduardodevclub)
 
+---
+
 ## 💼 Projetos em Destaque
 
 ## 💰 DevClub Convert Money
-
 [![Projeto DevClub Convert Money](https://img.shields.io/badge/🌐_Ver_Demo-37a779?style=for-the-badge)](https://eduardodevclub.github.io/devclub-convert-money/)
+
+<p align="center">
+  <img src="https://github.com/eduardodevclub/devclub-convert-money/blob/main/assets/conversao%20moedas%20desktop.png?raw=true" width="500" alt="Nike Air Zoom Thumbnail"/>
+</p>
 
 **Conversor de moedas moderno** desenvolvido durante meus estudos na **DevClub** com mentoria do **Rodolfo Mori**.
 
@@ -73,6 +78,7 @@ Landing page moderna e responsiva criada com **HTML**, **CSS** e **JavaScript**.
 **🔗 Deploy:** [eduardodevclub.github.io/Nike-Air-Zoom](https://eduardodevclub.github.io/Nike-Air-Zoom)  
 **📁 Repositório:** [github.com/eduardodevclub/Nike-Air-Zoom](https://github.com/eduardodevclub/Nike-Air-Zoom)
 
+---
 ### 🔹 [Wide Coverage Location](https://eduardodevclub.github.io/Wide-coverage-location/)
 <p align="center">
   <img src="https://github.com/eduardodevclub/Wide-coverage-location/blob/main/img/Wide%20Coverage%20Location%20Desktop.png?raw=true" width="500" alt="Wide Coverage Location Thumbnail"/>
